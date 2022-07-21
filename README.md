@@ -1,11 +1,14 @@
-# DISNEY+
+# Navegação no Site
 
 
 
-<img src="./img/pagina-principal.png" alt="Página Principal">
-<img src="./img/pagina-login.png" alt="Página Login">
+<img src="./image/1-home.png" alt="Página Principal"> <hr><hr>
+<img src="./image/2-html.png" alt="Página html"> <hr><hr>
+<img src="./image/3-js.png" alt="Página JavaScript"> <hr><hr>
+<img src="./image/4-hardware.png" alt="Página hardware"> <hr><hr>
+<img src="./image/5-phython.png" alt="Página phython"> <hr><hr>
 
-> This is a Disney+ clone project.
+> This is a Site Navigation project.
 
 ### Adjustments and improvements.
 
@@ -26,7 +29,7 @@ We thank the following people who contributed to this project:
   <tr>
       <td align="center">
           <a href="#">
-                <img src="./img/my-photo.jpeg" width="100px;" alt="Foto do Isaque Batista no GitHub"/><br>
+                <img src="./image/my-photo.jpeg" width="100px;" alt="Foto do Isaque Batista no GitHub"/><br>
                 <sub>
                 <b>Isaque Batista</b>
                 </sub>
